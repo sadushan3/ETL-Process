@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|solutionrelative:MultidimensionalProjectAssigment\\Dim_Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\SupermarketDWCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|solutionrelative:MultidimensionalProjectAssigment\\SupermarketDWCube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Products.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|solutionrelative:MultidimensionalProjectAssigment\\Dim_Products.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Customers.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{3B0E21FF-723B-C2CD-ED8D-C1DE9778EB3C}|MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment.dwproj|solutionrelative:MultidimensionalProjectAssigment\\Dim_Customers.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupermarketDWCube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\SupermarketDWCube.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProjectAssigment\\SupermarketDWCube.cube",
+              "ToolTip": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\SupermarketDWCube.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProjectAssigment\\SupermarketDWCube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T05:14:24.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim_Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Date.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProjectAssigment\\Dim_Date.dim",
+              "ToolTip": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Date.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProjectAssigment\\Dim_Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T05:12:44.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim_Products.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Products.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProjectAssigment\\Dim_Products.dim",
+              "ToolTip": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Products.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProjectAssigment\\Dim_Products.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T05:11:45.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim_Customers.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Customers.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProjectAssigment\\Dim_Customers.dim",
+              "ToolTip": "C:\\Users\\Buwaneka Fernando\\Documents\\VS 2022\\MultidimensionalProjectAssigment\\MultidimensionalProjectAssigment\\Dim_Customers.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProjectAssigment\\Dim_Customers.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-30T05:10:49.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
