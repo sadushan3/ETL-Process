@@ -40,7 +40,7 @@ The project focuses on modeling and analyzing data through a multidimensional ap
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/dwbi-cube-project.git
+git clone https://github.com/sadushan3/dwbi-cube-project.git
 
 # 2. Open the .sln file in Visual Studio
 MultidimensionalProjectAssigment.sln
